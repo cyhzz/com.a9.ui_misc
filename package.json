@@ -1,0 +1,20 @@
+{
+  "name": "com.a9.ui_misc",
+  "version": "1.0.1",
+  "description": "UI Misc",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cyhzz/com.a9.ui_misc.git"
+  },
+  "author": "A9019",
+  "keywords": [
+    "git",
+    "editor"
+  ],
+  "dependencies": {
+    "com.a9.singleton": "1.0.1"
+  },
+  "displayName": "A9 UI",
+  "unity": "2020.3"
+}
